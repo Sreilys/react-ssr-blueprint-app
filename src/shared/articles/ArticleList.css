@@ -1,0 +1,58 @@
+.articlelist {
+  background-color: #f6f6ef;
+}
+
+.articlelist small {
+  color: #828282;
+}
+
+.header {
+  background-color: green;
+  color: #fff;
+  padding: 3px;
+  height: 28px;
+}
+
+.header-title {
+  float: left;
+}
+
+.sort {
+  float: right;
+  font-size: 13px;
+  color: #00ffaa;
+  margin: 4px 15px 0 0;
+}
+
+.sort a {
+  text-decoration: none;
+  margin: 0 5px;
+  color: #00ffaa;
+}
+
+.sort-item {
+  cursor: pointer;
+}
+.sort-selected {
+  font-weight: bold;
+}
+.logo {
+  margin-top: 2px;
+  margin-right: 10px;
+  border: 1px white solid;
+  vertical-align: bottom;
+}
+
+.article-item {
+  padding: 0 15px;
+}
+
+.article-position {
+  color: #828282;
+}
+
+.article-details {
+  display: block;
+  margin-left: 40px;
+  margin-top: -12px;
+}
